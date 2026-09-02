@@ -1,0 +1,1 @@
+{"name":"Local: i","url":"/home/pedro/aa25.2/lista2/i.cpp","tests":[{"id":1759789507299,"input":"3 7\n3 2 5","output":"8"},{"id":1759804985153,"input":"3 10000000\n3 2 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/pedro/aa25.2/lista2/i.cpp","group":"local","local":true}

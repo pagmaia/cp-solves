@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"/home/pedro/aa25.2/lista1/a.py","tests":[{"id":1759260155180,"input":"6\nlogin\nprivate\npublic\nlogout\nprivate\npublic\n","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/pedro/aa25.2/lista1/a.py","group":"local","local":true}

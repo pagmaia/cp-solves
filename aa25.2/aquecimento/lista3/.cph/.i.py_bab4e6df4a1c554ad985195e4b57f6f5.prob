@@ -1,0 +1,1 @@
+{"name":"Local: i","url":"/home/pedro/aa25.2/lista3/i.py","tests":[{"id":1760390647044,"input":"........\n........\n..*.....\n........\n........\n.....**.\n...*....\n........\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/pedro/aa25.2/lista3/i.py","group":"local","local":true}

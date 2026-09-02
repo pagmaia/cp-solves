@@ -1,0 +1,1 @@
+{"name":"Local: zero_array","url":"/home/pedro/cp/aa25.2/codeforces/zero_array.cpp","tests":[{"id":1774574066935,"input":"1\n5 5\n3 2 1 5 4\n1 2 3\n2\n1 3 2\n1 4 1\n2","output":"4\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/pedro/cp/aa25.2/codeforces/zero_array.cpp","group":"local","local":true}

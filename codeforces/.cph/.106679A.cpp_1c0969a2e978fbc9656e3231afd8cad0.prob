@@ -1,0 +1,1 @@
+{"name":"Local: 106679A","url":"/home/pedro/cp/codeforces/106679A.cpp","tests":[{"id":1788185122302,"input":"4\n10 2\n1 9\n0 7\n8 1\n4\n1\n2\n3\n4","output":""},{"id":1788185324267,"input":"1\n5 3\n2\n1\n1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/pedro/cp/codeforces/106679A.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: amogu","url":"/home/pedro/aquecimento/amogu.py","tests":[{"id":1759176547798,"input":"9\nus\nsus\nfungus\ncactus\nsussus\namogus\nchungus\nntarsus\nskibidus\n","output":"i\nsi\nfungi\ncacti\nsussi\namogi\nchungi\nntarsi\nskibidi\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/pedro/aquecimento/amogu.py","group":"local","local":true}

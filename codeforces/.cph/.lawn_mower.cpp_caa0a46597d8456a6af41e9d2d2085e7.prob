@@ -1,0 +1,1 @@
+{"name":"Local: lawn_mower","url":"/home/pedro/cp/codeforces/lawn_mower.cpp","tests":[{"id":1774898119033,"input":"5\n9 3\n13 4\n15 14\n20 1\n1000 42","output":"6\n10\n14\n0\n977"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/pedro/cp/codeforces/lawn_mower.cpp","group":"local","local":true}
