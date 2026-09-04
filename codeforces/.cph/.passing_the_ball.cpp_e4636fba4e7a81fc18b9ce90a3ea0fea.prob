@@ -1,1 +1,0 @@
-{"name":"Local: passing_the_ball","url":"/home/pedro/cp/codeforces/passing_the_ball.cpp","tests":[{"id":1774638465426,"input":"3\n4\nRLRL\n6\nRRRRRL\n9\nRRLRRRRRL","output":"2\n6\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/pedro/cp/codeforces/passing_the_ball.cpp","group":"local","local":true}

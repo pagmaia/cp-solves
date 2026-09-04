@@ -1,1 +1,0 @@
-{"name":"Local: osu","url":"/home/pedro/aquecimento/osu.py","tests":[{"id":1759183269701,"input":"3\n4\n#...\n.#..\n..#.\n...#\n2\n.#..\n.#..\n1\n...#\n","output":"4 3 2 1 \n2 2 \n4 \n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/pedro/aquecimento/osu.py","group":"local","local":true}

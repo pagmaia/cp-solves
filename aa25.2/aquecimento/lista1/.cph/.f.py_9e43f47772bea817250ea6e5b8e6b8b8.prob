@@ -1,1 +1,0 @@
-{"name":"Local: f","url":"/home/pedro/aa25.2/lista1/f.py","tests":[{"id":1759424972160,"input":"1000000000 314 159\n","output":"495273003954006262\n"},{"id":1759425028850,"input":"10 3 5","output":"22"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/pedro/aa25.2/lista1/f.py","group":"local","local":true}

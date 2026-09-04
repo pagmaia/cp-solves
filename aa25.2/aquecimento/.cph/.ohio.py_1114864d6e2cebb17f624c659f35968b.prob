@@ -1,1 +1,0 @@
-{"name":"Local: ohio","url":"/home/pedro/aquecimento/ohio.py","tests":[{"id":1759251065626,"input":"4\nbaa\nskibidus\ncc\nohio\n","output":"1\n8\n1\n4\n"},{"id":1759252316687,"input":"5\naac\naaaa\nbc\naaa\na","output":"1\n1\n2\n1\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/pedro/aquecimento/ohio.py","group":"local","local":true}

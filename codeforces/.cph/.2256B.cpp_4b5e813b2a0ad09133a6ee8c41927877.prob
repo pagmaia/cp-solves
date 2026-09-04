@@ -1,1 +1,0 @@
-{"name":"Local: 2256B","url":"/home/pedro/cp/codeforces/2256B.cpp","tests":[{"id":1787930372121,"input":"4\n2\n??\n5\n0?1??\n5\n0?0??\n8\n00110011","output":""},{"id":1787930472616,"input":"1\n7\n?10????","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/pedro/cp/codeforces/2256B.cpp","group":"local","local":true}

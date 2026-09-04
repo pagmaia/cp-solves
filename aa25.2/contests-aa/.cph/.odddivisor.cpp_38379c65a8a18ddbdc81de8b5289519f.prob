@@ -1,1 +1,0 @@
-{"name":"Local: odddivisor","url":"/home/pedro/aa25.2/contests-aa/odddivisor.cpp","tests":[{"id":1771378708329,"input":"6\n2\n3\n4\n5\n998244353\n1099511627776","output":"NO\nYES\nNO\nYES\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/pedro/aa25.2/contests-aa/odddivisor.cpp","group":"local","local":true}
