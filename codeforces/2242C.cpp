@@ -28,6 +28,7 @@ void solve(){
     sort(freq.begin(), freq.end());
     int i = 0;
     // 1 1 1 2 2 2 3 3 4
+    // 3 3 2 1 -> 1 2 3 3
     while(i < m){
         int x = freq[i] - 1;
         int rm = m - i; 
