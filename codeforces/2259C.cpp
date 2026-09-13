@@ -18,7 +18,7 @@ void solve(){
             break;
         }
     }
-    pair<int, int> pos = {first, -1};
+    pair<int, int> pos = {-1, -1};
     for(int i = first + 1; i < n; i++){
         if(a[i] == 1){
             pos = max(pos, {first, i}, [](const auto &a, const auto &b){
@@ -33,8 +33,10 @@ void solve(){
             first = min(first, i);
         } 
     }	
-    if(pos.first != -1) a[pos.first] = 1;
-    if(pos.second != -1) a[pos.second] = 1;
+    if(pos.first != -1){
+        a[pos.first] = 1;
+        a[pos.second] = 1;
+    }
     
     for(int i = 0; i < n; i++){
         if(a[i] == -1 and i != pos.first and i != pos.second) a[i] = 0;
@@ -57,3 +59,7 @@ int main(){
  
     return 0;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3e9572a73438e702c89bddd6642e058e43731627
