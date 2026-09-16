@@ -8,31 +8,22 @@ using namespace std;
 
 void solve(){
     int n; int m; cin >> n >> m;
-    vector<int> a(n);
-    vector<int> freq(2 * m + 1);
-    int mx = 0;
+    vector<ll> a(n);
+    for(int i = 0; i < n; i++) cin >> a[i];
+    priority_queue<ll> pq;
+    ll sum = 0; ll ans = LLONG_MIN;
     for(int i = 0; i < n; i++){
-        cin >> a[i];
-        freq[a[i]] ++;
-    }
-    ll ans = 0;
-    vector<int> suf(m + 2);
-    for(int i = m; i >= 1; i--){
-        suf[i] = suf[i + 1] + freq[i];
-    }
-    for(int c : suf){
-        cout << c << " ";
-    }
-    cout << endl;
-
-    for(int i = 1; i <= m; i++){
-        ll c = suf[i];
-        if(2 * i <= m) c += freq[2 * i];
-        ans = max(ans, c);
+        if(pq.size() == m - 1) ans = max(ans, a[i] * m - sum);
+        pq.push(a[i]);
+        sum += a[i];
+        if(pq.size() == m){
+            int tp = pq.top();
+            pq.pop();
+            sum -= tp;
+        }
     }
     cout << ans << endl;
     
-
 }
 // 1 2 2 2 3 4 4
 // 7 6 3
